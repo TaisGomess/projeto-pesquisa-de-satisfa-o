@@ -1,0 +1,4 @@
+FROM mongo:7
+
+ENV mongo_initdb_root_username=admin
+ENV mongo_initdb_root_password=admin123

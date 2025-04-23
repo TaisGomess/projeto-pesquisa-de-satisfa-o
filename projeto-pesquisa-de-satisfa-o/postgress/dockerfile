@@ -1,0 +1,7 @@
+ FROM postgres:16
+
+
+ ENV postgres_USER=admin
+ ENV postgres_PASSWORD=admin123
+ ENV postgres_DB=satisfacao_db
+ 
